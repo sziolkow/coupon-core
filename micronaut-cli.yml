@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.sziolkow
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jpa, flyway, graalvm, gradle, hibernate-jpa, http-client, jackson-databind, jdbc-hikari, jib, junit, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, logback, management, micrometer, micrometer-prometheus, micronaut-build, netty-server, openapi, postgres, readme, shade, swagger-ui, testcontainers, yaml]
